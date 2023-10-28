@@ -2,12 +2,12 @@
   "welcome_banner":{
     "title":"Nike App Days",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
-    "image_one":"https://raw.githubusercontent.com/mauriciosartori/mauriciosartori.github.io/main/m1.png",
-    "image_two":"https://raw.githubusercontent.com/mauriciosartori/mauriciosartori.github.io/main/m2.png"
+    "image_one":"https://mauriciosartori.github.io./m1.png",
+    "image_two":"https://mauriciosartori.github.io./m2.png"
   },
   "tutorial_banner":{
     "title":"Welcome to Yomate",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-    "image":"https://raw.githubusercontent.com/mauriciosartori/mauriciosartori.github.io/main/m3.png"
+    "image":"https://mauriciosartori.github.io./m3.png"
   }
 }
