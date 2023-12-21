@@ -1,13 +1,18 @@
-{
-  "welcome_banner":{
-    "title":"Nike App Days",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
-    "image_one":"https://mauriciosartori.github.io./m1.png",
-    "image_two":"https://mauriciosartori.github.io./m2.png"
-  },
-  "tutorial_banner":{
-    "title":"Welcome to Yomate",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-    "image":"https://mauriciosartori.github.io./m3.png"
-  }
-}
+[
+            {
+                "type": "welcome_banner",
+                "title": "Welcome to Yomate",                
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+                "image1": "https://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/w_1416,c_limit/b48c7f5e-612a-4033-9f9a-c1e579e11263/yoga-for-athletes-how-it-can-enhance-sports-performance.jpg",
+                "image2": "https://static.nike.com/a/images/f_auto/dpr_2.0,cs_srgb/w_1416,c_limit/44f0b8fc-a3ac-46dd-8716-80142cc417a1/how-to-buy-the-right-yoga-clothes.jpg"
+            },
+            {
+                "type": "button_banner"
+            },
+            {
+                "type": "tutorial_banner",
+                "title": "Nike App Days",
+                "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla.",
+                "image1": "https://indatalabs.com/wp-content/uploads/2020/05/yoga-pose-estimation.png"
+            }
+        ]
